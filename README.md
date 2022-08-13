@@ -1,5 +1,5 @@
 Hi, I am Sandi Budiyanto.
-Welcome to my repository.
+Welcome to my profile.
 I have experience in Python, JavaScript, HTML & CSS, Node.JS, MySQL.
 
 It's empty here, but it won't be for long.
